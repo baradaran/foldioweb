@@ -1,0 +1,65 @@
+CACHE MANIFEST
+
+CACHE:
+/foldio/semantic.js
+/foldio/main.js
+/foldio/typescript.js
+/foldio/marked/marked.min.js
+/foldio/highlight.js/highlight.pack.js
+/foldio/lzma/lzma_worker-min.js
+/foldio/fuse.min.js
+/foldio/jquery.js
+/foldio/pxtlib.js
+/foldio/pxtcompiler.js
+/foldio/pxtblocks.js
+/foldio/pxtwinrt.js
+/foldio/pxteditor.js
+/foldio/pxtsim.js
+/foldio/pxtweb.js
+/foldio/blockly.css
+/foldio/semantic.css
+/foldio/rtlsemantic.css
+/foldio/custom.css
+/foldio/icons.css
+
+
+
+
+# blockly
+/foldio/blockly/blockly_compressed.js
+/foldio/blockly/blocks_compressed.js
+/foldio/blockly/msg/js/en.js
+/foldio/blockly/media/sprites.png
+/foldio/blockly/media/click.mp3
+/foldio/blockly/media/disconnect.wav
+/foldio/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/foldio/vs/loader.js
+/foldio/vs/base/worker/workerMain.js
+/foldio/vs/basic-languages/src/bat.js
+/foldio/vs/basic-languages/src/cpp.js
+/foldio/vs/editor/editor.main.css
+/foldio/vs/editor/editor.main.js
+/foldio/vs/editor/editor.main.nls.js
+/foldio/vs/language/json/jsonMode.js
+/foldio/vs/language/json/jsonWorker.js
+/foldio/vs/language/typescript/lib/typescriptServices.js
+/foldio/vs/language/typescript/src/mode.js
+/foldio/vs/language/typescript/src/worker.js
+
+# charts
+/foldio/smoothie/smoothie_compressed.js
+/foldio/images/Bars_black.gif
+
+# ai
+https://az416426.vo.msecnd.net/scripts/a/ai.0.js
+
+/foldio/worker.js
+# ver Tue Apr 23 2019 17:50:56 GMT+0200 (GMT+02:00)
+@monacoworkerjs@
+
+/foldio/target.js
+  
+NETWORK:
+*

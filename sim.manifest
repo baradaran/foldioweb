@@ -1,0 +1,9 @@
+CACHE MANIFEST
+
+CACHE:
+/foldio/bluebird.min.js
+/foldio/pxtsim.js
+/foldio/sim.js
+
+NETWORK:
+*

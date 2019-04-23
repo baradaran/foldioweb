@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "approvedOrgs": [
+            "Microsoft",
+            "microbit-foundation",
+            "calliope-mini",
+            "ubirch"
+        ],
+        "approvedRepos": [
+            "CoderDojoOlney/pxt-olney",
+            "Tinkertanker/pxt-oled-ssd1306",
+            "Seeed-Studio/pxt-grove"
+        ],
+        "preferredRepos": [
+            "Microsoft/pxt-neopixel",
+            "Microsoft/pxt-microturtle",
+            "calliope-mini/pxt-calliope-modem",
+            "calliope-mini/pxt-calliope-bc95",
+            "calliope-mini/pxt-calliope-esp",
+            "calliope-mini/pxt-calliope-bunt",
+            "calliope-mini/pxt-isl29125",
+            "ubirch/pxt-ubirch",
+            "Tinkertanker/pxt-oled-ssd1306",
+            "Seeed-Studio/pxt-grove"
+        ]
+    }
+}
